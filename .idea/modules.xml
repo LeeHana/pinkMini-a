@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/pinkMini/pinkMini.iml" filepath="$PROJECT_DIR$/pinkMini/pinkMini.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinkMini-a.iml" filepath="$PROJECT_DIR$/pinkMini-a.iml" />
+    </modules>
+  </component>
+</project>
+
